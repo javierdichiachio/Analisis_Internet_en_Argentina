@@ -8,7 +8,6 @@
   <img src="Imagenes/imagen_portada4.jpg"  height=300 />
 </p>
 
-### En este segundo proyecto se presenta un análisis completo acerca del **comportamiento** y el rol que ocupa el **Sector Internet** dentro del Sector Telecomunicaciones en Argentina.
 <br>
 <div style="text-align: center; color: blue; font-size: 1.2em; font-weight: bold;">
   <a href="https://www.linkedin.com/in/javier-dichiachio-34104857/" style="color: cadetblue; text-decoration: none;">
@@ -18,7 +17,8 @@
 
 # <h1 align=center> **Introducción** </h1>
 
-El desafío planteado para este proyecto consiste en asumir un rol de **Data Analyst** y brindar un análisis completo del sector (a nivel nacional) a una empresa prestadora de servicios de telecomunicaciones, cuya actividad principal es brindar acceso a Internet.
+El desafío planteado para este proyecto consiste en asumir un rol de **Data Analyst** y brindar un **análisis completo** del **Sector Internet**, dentro del Sector Telecomunicaciones en **Argentina**, a una empresa prestadora de servicios de telecomunicaciones, cuya principal actividad es brindar acceso a Internet.
+
 
 > El trabajo se compone, por un lado, por un **Análisis Exploratorio de Datos** en **Python** en el cual se busca conocer acerca de las **características y evolución del sector** en los últimos años; y se complementa con un **Dashboard interactivo** en **Power BI**, en el cual se **incluyen** ciertos **indicadores claves de rendimiento** del sector (**KPI**).
 <br>
@@ -29,7 +29,7 @@ El desafío planteado para este proyecto consiste en asumir un rol de **Data Ana
 
 # EXPLORATORY DATA ANALYSIS (EDA)
 
-El detalle de este proceso puede seguirse paso a paso en el Jupyter Notebook [EDA.ipynb](/EDA.ipynb). En el mismo se trabaja con los siguientes archivos:
+El detalle de este proceso se detalla en el Jupyter Notebook [EDA.ipynb](/EDA.ipynb). En el mismo se trabaja con los siguientes archivos:
 
     - Internet_Penetracion.xlsx: incluye información sobre los accesos a Internet cada 100 hogares por Provincia y por Trimestre, desde el año 2014 al 2022.
     - Internet_BAF.xlsx: incluye información sobre los accesos a Internet por tipo de Banda por Provincia y por Trimestre, desde el año 2014 al 2022.
@@ -39,7 +39,7 @@ El detalle de este proceso puede seguirse paso a paso en el Jupyter Notebook [ED
     - mapa_conectividad.xlsx: incluye información acerca de las tecnologías disponibles por localidad, como así también la población y ubicación de las mismas.    
 
 
- Se realizan distintas visualizaciones que resaltan información relevante, dentro de las cuales se destacan:
+ En primer lugar se realiza control y tratamiendo de valores nulos o duplicados en los datasets, y luego se crean distintas visualizaciones que resaltan información relevante, dentro de las cuales se destacan:
 
 + Evolución anual de accesos cada 100 hogares.
 + Distribución de la cantidad de accesos por Provincia.
@@ -62,7 +62,6 @@ Del análisis realizado se obtuvieron las siguientes **conclusiones**:
 Por último, se realizan ciertas transformaciones sobre los dataframes y se exportan  a archivos csv para ser levantados en Power BI.
 
 <br>
-
 
 # DASHBOARD INTERACTIVO - POWER BI
 
@@ -97,13 +96,14 @@ El mismo incluye:
 + **Gráfico de líneas** representativo de la **evolución trimestral** de la **velocidad media de descarga**.
 + **Medidor** que incluye el **KPI** de **localidades con acceso a Fibra Óptica**  (a desarrollar en el punto siguiente).
 + **Gráfico de líneas** representativo de la **evolución trimestral** de la **participación de Fibra Óptica** sobre el **total de accesos a Internet**.
++ **Tooltip** con el **mapa** de puntos de acceso a la **red de Fibra Óptica en Argentina**.
 
 En este caso también se pueden consultar todos los gráficos descriptos **a nivel país, o a nivel Provincia** seleccionando alguna de ellas desde la tabla.
 <br>
 
 ## Observaciones efectuadas
 
-Del análisis realizado a través de los Dashboards implementados, se descubrió un **punto crítico** en la **prestación del servicio**: existe una **gran diferencia** en la **velocidad media de bajada entre jurisdicciones**; si bien la **velocidad media a nivel país** es de **68.5 Mbps**, existen **9 provincias** con una **velocidad media inferior** a los **50 Mbps**.
+Del análisis realizado a través de los Dashboards implementados, se identificó un **punto crítico** en la **prestación del servicio**: la **gran diferencia** en la **velocidad media de bajada entre jurisdicciones**; si bien la **velocidad media a nivel país** es de **68.5 Mbps**, existen **9 provincias** con una **velocidad media inferior** a los **50 Mbps**.
 
 Por otro lado, se observa que existe una **relación directa** entre el **crecimiento** en la **velocidad media de descarga** a través de los años, con el **crecimiento** de los **accesos** a través de **Fibra óptica**, por lo que el **incremento** en las conexiones a traves **de esta tecnología** se define como vía de **acción clave** para la **mejora** en la **prestación del servicio**.
 
@@ -154,5 +154,7 @@ Se estima que **de cumplirse** estos indicadores clave, **se obtendrá un crecim
 
 # Fuentes de datos
 
-> Los datos fueron extraídos de la siguiente [página](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/).
++ Los datasets fueron extraídos de la [página oficial de datos abiertos de ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/).
+
++ [Puntos de acceso a la red de Fibra Óptica en Argentina](https://datos.gob.ar/dataset/arsat-puntos-conexion-refefo).
 <br/>
