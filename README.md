@@ -24,7 +24,7 @@ El desafío planteado para este proyecto consiste en asumir un rol de **Data Ana
 <br>
 
 # <h1 align=center> **Desarrollo del Proyecto**</h1>
-
+<br>
 
 # EXPLORATORY DATA ANALYSIS (EDA)
 
