@@ -2,7 +2,7 @@
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº 2** </h1>
 
-# <h1 align=center>**<span style="color:cadetblue">DATA ANALYSIS - Telecomunicaciones: INTERNET EN ARGENTINA</span>**</h1>
+# <h1 align=center>**<span style="color:cadetblue">**DATA ANALYSIS - Telecomunicaciones: INTERNET EN ARGENTINA**</span>**</h1>
 
 <p align="center">
   <img src="Imagenes/imagen_portada4.jpg"  height=300 />
