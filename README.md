@@ -75,7 +75,7 @@ Se organiza en **3 páginas o tableros**:
 > 2. **Accesos**: Incluye información referente a la **cantidad de accesos a Internet** por provincia.
 El mismo incluye:
 
-+ **2 Filtros**: por **año** y por **trimestre**.
++ **2 Segmentadores (filtros)**: por **año** y por **trimestre**.
 + **3 Tarjetas**: la primera incluye **tasa de accesos cada 100 hogares promedio** al **cierre del período**, la segunda incluye el **KPI** de **accesos al servicio de Internet** (a desarrollar en el punto siguiente), y la última incluye el **valor** de la **tasa de accesos cada 100 hogares objetivo** del **Trimestre siguiente**
 + **Tabla** que incluye la **tasa de accesos cada 100 hogares** y el **valor del KPI** al **cierre** del período analizado, por Provincia.
 + Visualización comparativa de la **evolución trimestral** de la **tasa de accesos** y el **KPI** de acceso al servicio de Internet.
@@ -89,7 +89,7 @@ Todos los gráficos descriptos se pueden **consultar a nivel país, o a nivel Pr
 > 3. **Velocidad y Fibra óptica**: Incluye información referente a la **velocidad media de descarga** por provincia y cantidad de **localidades con acceso** a la tecnología de **Fibra Óptica**.
 El mismo incluye:
 
-+ **2 Filtros**: por **año** y por **trimestre**.
++ **2 Segmentadores (filtros)**: por **año** y por **trimestre**.
 + **Tabla** que incluye la **velocidad media de descarga** , cantidad de **localidades**, cantidad de **localidades con acceso a Fibra Óptica** y el **valor del KPI de Fibra Óptica** al **cierre** del período analizado, por Provincia.
 + **Medidor** que incluye el **KPI** de **velocidad media mínima** por Provincia (a desarrollar en el punto siguiente).
 + **Gráfico de líneas** representativo de la **evolución trimestral** de la **velocidad media de descarga**.
