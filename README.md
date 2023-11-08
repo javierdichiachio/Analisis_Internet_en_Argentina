@@ -54,7 +54,7 @@ Del análisis realizado se obtuvieron las siguientes **conclusiones**:
 > - La jurisdicción con mayor índice de accesos cada 100 hogares a cierre de 2022 es Capital Federal, con un valor de 122.73, es decir más de un acceso por hogar.
 > - Existen provincias como Chaco, Formosa, Santa Cruz y Santiago del Estero donde el índice de accesos aún no supera el 50%.
 > - Al cierre de 2022, más del 99% de las conexiones se realizan a traves de conexión por Banda Ancha.
-> - A fines del mismo período, más del 50% de las conexiones se realizan utilizando tecnología de Cablemodem, seguidas por las conexiones de Fibra óptica; tecnologías su vez fueron las que más crecieron en los últimos años y que proveen de una velocidad de conexión más rápida.
+> - A fines del mismo período, más del 50% de las conexiones se realizan utilizando tecnología de Cablemodem, seguidas por las conexiones de Fibra óptica; tecnologías que a su vez fueron las que más crecieron en los últimos años y que proveen de una velocidad de conexión más rápida.
 > - El uso de la tecnología ADSL decrece de manera inversamente proporcional al crecimiento de Cablemodem.
 > - Más del 70% de los accesos se realizan a través de una velocidad superior a los 30 Mbps y la velocidad promedio de descarga a nivel país es de 68.5 Mbps; sin embargo, existen 9 provincias en las cuales la velocidad media de descarga es inferior a 50 Mbps.
 
