@@ -80,8 +80,8 @@ El mismo incluye:
 + **Tabla** que incluye la **tasa de accesos cada 100 hogares** y el **valor del KPI** al **cierre** del período analizado, por Provincia.
 + Visualización comparativa de la **evolución trimestral** de la **tasa de accesos** y el **KPI** de acceso al servicio de Internet.
 + **Gráfico de torta** representativo de la cantidad de **accesos por Tipo de Banda**.
-+ **Gráfico de barras** representativo de la cantidad de **accesos por Teconología utilizada** en la conexión.
-+ **Gráfico de barras** representativo de la cantidad de **accesos según rango de Velocidad** en la conexión.
++ **Gráfico de barras** comparativo de la cantidad de **accesos por Teconología utilizada** en la conexión.
++ **Gráfico de barras** comparativo de la cantidad de **accesos según rango de Velocidad** en la conexión.
 
 Todos los gráficos descriptos se pueden **consultar a nivel país, o a nivel Provincia** seleccionando alguna de ellas desde la tabla.
 
