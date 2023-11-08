@@ -38,7 +38,7 @@ El detalle de este proceso se detalla en el Jupyter Notebook [EDA.ipynb](/EDA.ip
     - mapa_conectividad.xlsx: incluye información acerca de las tecnologías disponibles por localidad, como así también la población y ubicación de las mismas.    
 
 
- En primer lugar se realiza control y tratamiendo de valores nulos o duplicados en los datasets, y luego se crean distintas visualizaciones que resaltan información relevante, dentro de las cuales se destacan:
+ En primer lugar se realiza control y tratamiento de valores nulos o duplicados en los datasets, y luego se crean distintas visualizaciones que resaltan información relevante, dentro de las cuales se destacan:
 
 + Evolución anual de accesos cada 100 hogares.
 + Distribución de la cantidad de accesos por Provincia.
